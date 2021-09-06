@@ -32,7 +32,9 @@ using python.
   
 ### Output:
   Client sending messages to server.
+  
   ![ScreenShot of client](https://raw.githubusercontent.com/samsepi0x0/TCP-IP-Codes/main/echo_server/client.png)
   
   Server response to the messages.
+  
   ![ScreenShot of server](https://raw.githubusercontent.com/samsepi0x0/TCP-IP-Codes/main/echo_server/server.png)
