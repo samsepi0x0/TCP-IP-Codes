@@ -6,8 +6,6 @@ echo server, catbots, encrypted chatbots, etc.
   ```bash
   TCP-IP-Codes
   └── echo_server
-    ├── server.png  
-    ├── client.png
     ├── echo_client.py
     └── echo_server.py
   ```
